@@ -98,6 +98,8 @@ p {
     justify-content: space-evenly;
     position: relative;
     left: 5px;
+    width: 85%;
+    margin-left: 40px;
 }
 
 
@@ -114,7 +116,7 @@ h2 {
     align-items: center;
     width: 80%;
     height: 50px;
-    background-color: hsl(0deg 100% 67% / 20%);
+    background-color: hsl(0deg 100% 67% / 10%);
     ;
     border-radius: 10px;
     padding-right: 10px;
@@ -128,7 +130,7 @@ h2 {
     align-items: center;
     width: 80%;
     height: 50px;
-    background-color: hsl(39deg 100% 56% / 20%);
+    background-color: hsl(39deg 100% 56% / 10%);
     border-radius: 10px;
     padding-right: 10px;
     padding-left: 10px;
@@ -141,7 +143,7 @@ h2 {
     align-items: center;
     width: 80%;
     height: 50px;
-    background-color: hsl(166deg 100% 37% / 20%);
+    background-color: hsl(166deg 100% 37% / 10%);
     border-radius: 10px;
     padding-right: 10px;
     padding-left: 10px;
@@ -154,7 +156,7 @@ h2 {
     align-items: center;
     width: 80%;
     height: 50px;
-    background-color: hsl(234deg 85% 45% / 20%);
+    background-color: hsl(234deg 85% 45% /10%);
     border-radius: 10px;
     padding-right: 10px;
     padding-left: 10px;
